@@ -16,5 +16,4 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: nginx:latest
-        version : 1.12.2
+        image: nginx:1.12.2
